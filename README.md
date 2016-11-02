@@ -11,7 +11,6 @@ Automatically exported from code.google.com/p/tjmj
 
 支持 Firefox 4+, Opera 10+, IE 9+
 
-Google这连个HTML文件也不许放实在太挫了点吧，扔sf上一个可以在线访问的版本。http://tjmj.sourceforge.net/mj.html
 
 ----
 
