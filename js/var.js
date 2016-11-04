@@ -15,7 +15,7 @@
     along with Tianjin Mahjong. If not, see <http://www.gnu.org/licenses/>.
 */
 
-// 根据id获取页面上的元素，为书写方便y
+// 根据id获取页面上的元素，为书写方便
 var $i=function (id) {
   return document.getElementById(id);
 };
