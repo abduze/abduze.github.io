@@ -23,7 +23,7 @@ var zhang=function (lb,sz) {
   this.sz=sz;
 }
 
-// 混儿牌张数
+// 混儿牌张数o
 zhang.prototype.numhuir = 2;
 zhang.prototype.zzhang = [7, 9, 9, 9];
 zhang.prototype.zdir = ["z", "w", "b", "t"];
