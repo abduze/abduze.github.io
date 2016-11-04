@@ -15,7 +15,7 @@
     along with Tianjin Mahjong. If not, see <http://www.gnu.org/licenses/>.
 */
 
-// 玩家打牌——选择
+// 玩家打牌——选择o
 // 对每张牌注册onclick事件
 var dap_wj_ro=function () {
   var i, l=sp[3].pz(), p=$i("su4").childNodes;
