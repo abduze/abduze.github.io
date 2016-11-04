@@ -1,6 +1,6 @@
 #act:not(.sd)~#sd>#sdf {
   top:700px;
-}4
+}
 
 #act.sd~#sd>#sdf {
   top:-50px;
