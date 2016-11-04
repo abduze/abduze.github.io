@@ -15,7 +15,7 @@
     along with Tianjin Mahjong. If not, see <http://www.gnu.org/licenses/>.
 */
 
-// 牌墙的代码
+// 牌墙的代码u
 var tppq=function () {
   var a = new Array(136);
   var i, j, k, l = 0;
