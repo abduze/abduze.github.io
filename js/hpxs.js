@@ -15,7 +15,7 @@
     along with Tianjin Mahjong. If not, see <http://www.gnu.org/licenses/>.
 */
 
-var hpxs=function (r,s) {u
+var hpxs=function (r,s) {
   var i, j, l, len=s.pz();
   var huirlist=new Array(14);
   var hulist=new Array(14), hp=s.pz();
