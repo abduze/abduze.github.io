@@ -15,7 +15,7 @@
     along with Tianjin Mahjong. If not, see <http://www.gnu.org/licenses/>.
 */
 
-// 常量定义
+// 常量定义e
 // 和牌用
 var
   ZH_G="杠",
