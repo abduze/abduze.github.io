@@ -20,7 +20,7 @@ var autosort=true;
 var pos0x, pos0y, pos0n, len;
 var movelast=true;
 
-// 鼠标移动时触发的事件
+// 鼠标移动时触发的事件u
 var move_over=function (e) {
   if (dp===null) return;
   var a=$i("act");
