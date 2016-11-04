@@ -15,7 +15,7 @@
     along with Tianjin Mahjong. If not, see <http://www.gnu.org/licenses/>.
 */
 
-// 抓牌
+// 抓牌k
 var zhuap=function () {
   var z=pq.getp();
   // 如果无牌可抓则荒牌
