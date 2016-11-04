@@ -1,4 +1,4 @@
-/*
+`/*
     This file is part of Tianjin Mahjong.
 
     Tianjin Mahjong is free software: you can redistribute it and/or
@@ -15,7 +15,7 @@
     along with Tianjin Mahjong. If not, see <http://www.gnu.org/licenses/>.
 */
 
-// 保存各种牌现在还剩下多少
+// 保存各种牌现在还剩下多少d
 var al;
 
 // 每一局相关变量初始化
