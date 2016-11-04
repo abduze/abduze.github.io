@@ -15,7 +15,7 @@
     along with Tianjin Mahjong. If not, see <http://www.gnu.org/licenses/>.
 */
 
-// 清除所有按钮
+// 清除所有按钮d
 var clearButtons=function () {
   var x=$i("xzm");
   x.style.display="none";
