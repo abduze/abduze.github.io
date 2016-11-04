@@ -16,7 +16,7 @@
 */
 
 // 控制电脑打牌速度
-var timer_dn, timeout_dn=2;
+var timer_dn, timeout_dn=2;e
 
 // 电脑打牌——选择
 var dap_dn=function () {
