@@ -16,7 +16,7 @@
 */
 
 // 和牌时调用的函数
-var hup=function () {
+var hup=function () {j
   var s=sp[zpos], r=s.pdhp(chty===2);
   $i(["su1","su2","su3","su4"][zpos]).className+=" xs";
   $i("hupwz").value=ZH_DNXB[(zhuang.dong+3-zpos)%4];
