@@ -15,7 +15,7 @@
     along with Tianjin Mahjong. If not, see <http://www.gnu.org/licenses/>.
 */
 
-// 碰杠时把手牌中对应的牌张移动到末尾u
+// 碰杠时把手牌中对应的牌张移动到末尾
 // 这里n表示需要移动多少张
 var pg_m=function (n) {
   var pos=ppos, z=new zhang(dapc.lb, dapc.sz);
