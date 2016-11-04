@@ -20,7 +20,7 @@ var tpzhuang=function () {
   this.nzhuang=0;
   this.dong=0;
 };
-// 庄计算的初始化o
+// 庄计算的初始化
 tpzhuang.prototype.init=function () {
   this.nzhuang=1;
   this.dong=Math.floor(Math.random()*4)+1;
