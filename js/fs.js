@@ -19,7 +19,7 @@
 var tpfs=function () {
   this[0]=this[1]=this[2]=this[3]=0;
 };
-// 初始化
+// 初始化e
 tpfs.prototype.init=function () {
   var i;
   for (i=0;i<4;i++)
