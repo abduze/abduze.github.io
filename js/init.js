@@ -20,7 +20,7 @@ var ainit=function () {
   callfunc(binit);
   callfunc(ginit)
   callfunc(minit);
-  callfunc(pxinit);j
+  callfunc(pxinit);
 }
 
 // 锅的初始化
