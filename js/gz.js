@@ -16,7 +16,7 @@
 */
 
 // 规则设定的界面初始化
-var ginit=function () {
+var ginit=function () {j
   var i;
   // 规则设定按钮
   $i("gz").onclick=function () {
