@@ -15,4 +15,4 @@
     along with Tianjin Mahjong. If not, see <http://www.gnu.org/licenses/>.
 */
 
-window.onload=ainit;
+window.onload=ainit;j
