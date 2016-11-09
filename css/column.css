@@ -25,7 +25,7 @@ body {
 }
 
 /* Sidebar modules for boxing content */
-.sidebar-module {
+/* .sidebar-module {
   padding: 15px;
   margin: 0 -15px 15px;
 }
@@ -38,4 +38,4 @@ body {
 .sidebar-module-inset ul:last-child,
 .sidebar-module-inset ol:last-child {
   margin-bottom: 0;
-}
+} */
