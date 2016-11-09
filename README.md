@@ -1,17 +1,20 @@
-# Majiang #
-Automatically exported from code.google.com/p/tjmj
+# Introduction #
+# 个人简介 #
 
 ----
-
-# 天津麻将 #
-
-网页实现的简化了的天津地区规则的麻将单机游戏。
-
-规则上只提供了基本的规则，未包括天和、地和、混儿杠、素本等规则。可设置项包括混儿牌张数和起和番。
-
-支持 Firefox 4+, Opera 10+, IE 9+
-
-
+pre><code>{
+  "<span class="hljs-attribute">name</span>": <span class="hljs-value"><span class="hljs-string">"田永强/朴灵"</span></span>,
+  "<span class="hljs-attribute">description</span>": <span class="hljs-value"><span class="hljs-string">""</span></span>,
+  "<span class="hljs-attribute">version</span>": <span class="hljs-value"><span class="hljs-string">"0.2.5"</span></span>,
+  "<span class="hljs-attribute">keywords</span>": <span class="hljs-value">[<span class="hljs-string">"Noder"</span>, <span class="hljs-string">"Frontend Developer"</span>]</span>,
+  "<span class="hljs-attribute">contact</span>": <span class="hljs-value">{
+    "<span class="hljs-attribute">weibo</span>": <span class="hljs-value"><span class="hljs-string">"@朴灵"</span></span>,
+    "<span class="hljs-attribute">twitter</span>": <span class="hljs-value"><span class="hljs-string">"@JacksonTian"</span>
+  </span>}</span>,
+  "<span class="hljs-attribute">location</span>": <span class="hljs-value"><span class="hljs-string">"杭州"</span></span>,
+  "<span class="hljs-attribute">workAt</span>": <span class="hljs-value"><span class="hljs-string">"Alibaba Inc."</span>
+</span>}
+</code>
 ----
 
 # Tianjin Mah-jongg #
